@@ -1,0 +1,16 @@
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\bin\Debug\net5.0\Operators.exe
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\bin\Debug\net5.0\Operators.deps.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\bin\Debug\net5.0\Operators.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\bin\Debug\net5.0\ref\Operators.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\bin\Debug\net5.0\Operators.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\obj\Debug\net5.0\Operators.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\obj\Debug\net5.0\ref\Operators.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\obj\Debug\net5.0\Operators.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache

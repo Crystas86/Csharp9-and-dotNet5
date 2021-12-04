@@ -1,0 +1,16 @@
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\bin\Debug\net5.0\SelectionStatement.exe
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\bin\Debug\net5.0\SelectionStatement.deps.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\bin\Debug\net5.0\SelectionStatement.runtimeconfig.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\bin\Debug\net5.0\SelectionStatement.runtimeconfig.dev.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\bin\Debug\net5.0\SelectionStatement.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\bin\Debug\net5.0\ref\SelectionStatement.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\bin\Debug\net5.0\SelectionStatement.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\obj\Debug\net5.0\SelectionStatement.csproj.AssemblyReference.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\obj\Debug\net5.0\SelectionStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\obj\Debug\net5.0\SelectionStatement.AssemblyInfoInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\obj\Debug\net5.0\SelectionStatement.AssemblyInfo.cs
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\obj\Debug\net5.0\SelectionStatement.csproj.CoreCompileInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\obj\Debug\net5.0\SelectionStatement.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\obj\Debug\net5.0\ref\SelectionStatement.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\obj\Debug\net5.0\SelectionStatement.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\SelectionStatement\obj\Debug\net5.0\SelectionStatement.genruntimeconfig.cache

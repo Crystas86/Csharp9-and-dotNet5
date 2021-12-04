@@ -1,0 +1,16 @@
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.exe
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.deps.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.runtimeconfig.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.runtimeconfig.dev.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\ref\BitwiseAndShiftOperators.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.csproj.AssemblyReference.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\ref\BitwiseAndShiftOperators.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.genruntimeconfig.cache

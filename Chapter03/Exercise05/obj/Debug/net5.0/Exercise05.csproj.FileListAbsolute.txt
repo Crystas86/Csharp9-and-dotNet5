@@ -1,0 +1,16 @@
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\bin\Debug\net5.0\Exercise05.exe
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\bin\Debug\net5.0\Exercise05.deps.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\bin\Debug\net5.0\Exercise05.runtimeconfig.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\bin\Debug\net5.0\Exercise05.runtimeconfig.dev.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\bin\Debug\net5.0\Exercise05.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\bin\Debug\net5.0\ref\Exercise05.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\bin\Debug\net5.0\Exercise05.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\obj\Debug\net5.0\Exercise05.csproj.AssemblyReference.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\obj\Debug\net5.0\Exercise05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\obj\Debug\net5.0\Exercise05.AssemblyInfoInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\obj\Debug\net5.0\Exercise05.AssemblyInfo.cs
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\obj\Debug\net5.0\Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\obj\Debug\net5.0\Exercise05.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\obj\Debug\net5.0\ref\Exercise05.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\obj\Debug\net5.0\Exercise05.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\Exercise05\obj\Debug\net5.0\Exercise05.genruntimeconfig.cache

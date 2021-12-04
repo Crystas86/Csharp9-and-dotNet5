@@ -1,0 +1,16 @@
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.exe
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.deps.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.dev.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\bin\Debug\net5.0\ref\IterationStatements.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.AssemblyReference.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfo.cs
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\obj\Debug\net5.0\ref\IterationStatements.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.genruntimeconfig.cache

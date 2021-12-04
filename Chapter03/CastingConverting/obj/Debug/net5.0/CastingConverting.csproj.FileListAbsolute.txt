@@ -1,0 +1,16 @@
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.csproj.AssemblyReference.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfo.cs
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.exe
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.deps.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.dev.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\bin\Debug\net5.0\ref\CastingConverting.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\obj\Debug\net5.0\ref\CastingConverting.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.genruntimeconfig.cache
