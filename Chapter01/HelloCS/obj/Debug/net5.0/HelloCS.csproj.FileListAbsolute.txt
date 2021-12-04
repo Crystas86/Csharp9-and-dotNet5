@@ -1,0 +1,16 @@
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\Users\31642\Desktop\Opleiding\C#\C# Boek\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache
